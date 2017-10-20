@@ -3,44 +3,46 @@ How to Play the Card Game War
 
 Rules
 
-The game is played with two oppposing players.
-Each player begins with a a stack of 26 cards face down.
-Each card's value is the number listed on the card. i.e. A card with a 3 on it has a value of 3.
+The game is played with two oppposing players;
+Each player begins with a a stack of 26 cards face down;
+Each card's value is the number listed on the card i.e. A card with a 3 on it has a value of 3;
 If there is not a number listed: 
-  it is a face card.
-  Face cards are Jacks, Queen, Kings, and Aces.
-  Jacks have a value of 11.
-  Queens have a value of 12.
-  Kings have a value of 13.
-  Aces have a falue of 14.
+  it is a face card;
+  Face cards are Jacks, Queen, Kings, and Aces;
+  Jacks have a value of 11;
+  Queens have a value of 12;
+  Kings have a value of 13;
+  Aces have a falue of 14;
 If the two cards are of equal value:
-  then the players will take another card from the top of their decks and place it face down.
-  Then they will take another card from the top of their decks and place it face up.
+  then the players will take another card from the top of their decks and place it face down;
+  Then they will take another card from the top of their decks and place it face up;
   If someone has the greatest value card:
-    then all cards placed down are won by that player and is placed at the bottom of their deck.
+    then all cards placed down are won by that player and is placed at the bottom of their deck;
      If the two cards are of equal value again:
-      the tiebreaker process repeats until one player has placed face up a card of greater value than the other player's.
-This sequence continues until one player has all 52 cards.
+      the tiebreaker process repeats until one player has placed face up a card of greater value than the other player's;
+This sequence continues until one player has all 52 cards;
 If one player has all 52 cards:
-  that person is deemed the winner.
+  that person is deemed the winner;
 
 Instructions
 
-The 52 card deck is shuffled and divided into two.
-The two players are then dealt their 26 cards. No joker cards should be present.
-Their cards are in seperate stacks placed face down.
-The two players a facing each other with their individual decks in front of themselves.
+If joker cards are present in the deck:
+take them out of deck;
+The 52 card deck is shuffled and divided into two;
+The two players are then dealt their 26 cards;
+Their cards are put in seperate stacks placed face down;
+The two players a facing each other with their individual decks in front of themselves;
 If both players still have cards:
- then a new round begins until one person has all the cards.
- Each player pulls one card off the top of their respective decks.
- They place it face down in the middle of the two players and flip it face up.
+ then a new round begins until one person has all the cards;
+ Each player pulls one card off the top of their respective decks;
+ They place it face down in the middle of the two players and flip it face up;
  If one card has a greater value than the other card:
-  then both cards are won by the player with the greater card and are placed at the bottom of the player's deck.
+  then both cards are won by the player with the greater card and are placed at the bottom of the player's deck;
  If the two cards have equal values:
-  then a tiebreaker commences.
-  The players leave their cards in the middle and place another card off their top off their deck face down in the middle.
-  The players will then place one more card off the top of their deck face up.
+  then a tiebreaker commences;
+  The players leave their cards in the middle and place another card off their top off their deck face down in the middle;
+  The players will then place one more card off the top of their deck face up;
   If one card has a greater value than the other card:
-    then all cards are won by the player with the greater card and are placed at the bottom of the player's deck.
+    then all cards are won by the player with the greater card and are placed at the bottom of the player's deck;
 If one player has all 52 cards in their deck:
- no more rounds will commence and the player has won the game.
+ no more rounds will commence and the player has won the game;
